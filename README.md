@@ -1,7 +1,7 @@
 # lab-4
 
 ## Виконані вправи
-1. **ROOT ROUTE** (`solution.js`) - Налаштування мінімального HTTP-сервера, обробка базового маршруту `GET /` з plain text відповіддю.
+1. **ROOT ROUTE** (`root_route.js`) - Налаштування мінімального HTTP-сервера, обробка базового маршруту `GET /` з plain text відповіддю.
 2. **TIME ROUTE** (`time_route.js`) - Маршрут `GET /time`, який повертає поточний час у форматі JSON (`ISO_TIMESTAMP`).
 3. **ECHO ROUTE** (`echo_route.js`) - Робота з query-параметрами: повертає значення параметра `msg` з URL.
 4. **SUM ROUTE** (`sum_route.js`) - Математичні операції з query-параметрами `a` та `b`, валідація даних, обробка помилок `400 Bad Request`.
