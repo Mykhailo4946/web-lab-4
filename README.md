@@ -1,4 +1,4 @@
-# lab-4
+# Lab-4 Http module
 
 ## Виконані вправи
 1. **ROOT ROUTE** (`root_route.js`) - Налаштування мінімального HTTP-сервера, обробка базового маршруту `GET /` з plain text відповіддю.
